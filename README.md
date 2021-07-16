@@ -10,7 +10,8 @@ In this course you will build a strong software development foundation and learn
 
 ### Instructional Staff
 
-Instructor: EDIT, email: EDIT, slack: EDIT
+Instructor: Craig Barkley, email: craig@newbo.co, slack: Craig Barkley
+Instructor: Stacey Teltser, email: stacey@newbo.co, slack: Stacey Teltser
 
 **[Link to Canvas Assignments](https://canvas.instructure.com/courses/EDIT)**
 
