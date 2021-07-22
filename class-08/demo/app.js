@@ -1,3 +1,4 @@
+// for loop 
 function askUser() {
   let answer = prompt("Is shampoo or conditioner better?");
   for(let index = 1; index < 3; index++){
@@ -9,6 +10,15 @@ function askUser() {
     }
   }
 }
+
+// while loop
+// function askUser() {
+//   let answer = prompt("Is shampoo or conditioner better?"); 
+//   while(answer !== 'shampoo'){
+//     answer = prompt('try again!');
+//   }
+//   alert('youuuuu got it!');
+// }
 
 
 
