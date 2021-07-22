@@ -11,7 +11,7 @@ function askUser() {
   }
 }
 
-// while loop
+// this is an while loop example
 // function askUser() {
 //   let answer = prompt("Is shampoo or conditioner better?"); 
 //   while(answer !== 'shampoo'){
@@ -21,4 +21,7 @@ function askUser() {
 // }
 
 
-
+let userNumber = prompt('enter a number 1-10');
+for(i = 0; i < userNumber; i++) {
+  document.write('&hearts;');
+}
